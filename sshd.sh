@@ -3,9 +3,6 @@ cd /etc/ssh
 
 # Assign the filename
 filename="sshd_config"
-# Take the search string
-# Assign the filename
-#read -p "Enter the search string: " search
 search=22
 # Take the replace string
 read -p "Enter the Port number: " replace
