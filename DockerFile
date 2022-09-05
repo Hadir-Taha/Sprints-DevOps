@@ -1,0 +1,5 @@
+
+From python:3.8
+WORKDIR /urs/src/app
+COPY * ./
+
