@@ -15,5 +15,3 @@ def MyFunc(*mylist):
     meanOfInt = sumofint / len(intlist)
     maxOfFloat = max(floatlist)
     return meanOfInt, maxOfFloat
-
-meanOfInt, maxOfFloat = MyFunc(1, 2, 4.3, 3, 4, 5.3, 1.4)
